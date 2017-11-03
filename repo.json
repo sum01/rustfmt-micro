@@ -1,0 +1,14 @@
+[{
+  "Name": "rustfmt",
+  "Description": "Rustfmt plugin for Micro",
+  "Tags": ["rust", "formatting"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/sum01/rustfmt-micro/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.3.0"
+      }
+    }
+  ]
+}]
