@@ -1,3 +1,6 @@
+# DEPRECIATED
+This has been made unnecessary considering my [fmt](https://github.com/sum01/fmt-micro) plugin. It will not be maintained.
+
 # Rustfmt-micro
 This is a [rustfmt](https://github.com/rust-lang-nursery/rustfmt) plugin for the [Micro text-editor.](https://github.com/zyedidia/micro)
 
